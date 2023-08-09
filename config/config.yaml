@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/Suvojeet-Haldar/data/raw/main/winequality-data.zip
+  # source_URL: https://docs.google.com/uc?export=download&id=1e4liohQQtuqqh2Z1i8kavxJEwmLe_F5t
+  # source_URL: https://drive.google.com/file/d/1e4liohQQtuqqh2Z1i8kavxJEwmLe_F5t/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
