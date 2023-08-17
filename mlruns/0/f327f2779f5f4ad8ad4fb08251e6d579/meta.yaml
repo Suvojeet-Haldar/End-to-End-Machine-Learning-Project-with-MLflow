@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/projects/End-to-End-Machine-Learning-Project-with-MLflow/mlruns/0/f327f2779f5f4ad8ad4fb08251e6d579/artifacts
+end_time: 1692207120181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f327f2779f5f4ad8ad4fb08251e6d579
+run_name: lyrical-ape-176
+run_uuid: f327f2779f5f4ad8ad4fb08251e6d579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207116708
+status: 3
+tags: []
+user_id: Asus
